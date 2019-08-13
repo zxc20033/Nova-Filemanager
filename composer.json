@@ -1,23 +1,18 @@
 {
-    "name": "infinety-es/nova-filemanager",
+    "name": "onepage/nova-filemanager",
     "description": "Filemanager tool for Laravel Nova",
     "keywords": [
         "laravel",
         "nova",
         "filemanager"
     ],
-    "homepage": "https://github.com/InfinetyEs/nova-filemanager",
+    "homepage": "https://github.com/zxc20033/nova-filemanager",
     "license": "MIT",
     "authors": [
         {
-            "name": "Eric Lagarda",
-            "email": "eric@infinety.es",
+            "name": "Leo Lam",
+            "email": "leo.lam@onepagehk.com",
             "role": "Developer"
-        },
-        {
-            "name": "InfinetyEs",
-            "email": "apps@infinety.es",
-            "role": "Maintainer"
         }
     ],
     "require": {
